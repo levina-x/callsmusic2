@@ -1,4 +1,4 @@
-# Calls Music 2 — Telegram bot + userbot for streaming audio in group calls written in JavaScript
+# Calls Music 2: Telegram bot + userbot untuk streaming audio di dalam obrolan suara grup, yang ditulis dalam bahasa JavaScript.
 
 ## Requirements
 
@@ -32,7 +32,7 @@ This bot needs a Linux system, Node JS version 15 or newer with the packages spe
 ### Heroku
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/callsmusic/callsmusic2)
-- You can generate a string session [here](https://replit.com/@Roj617/GramJSStringSejin).
+- Ambil string session [disini](https://replit.com/@Roj617/GramJSStringSejin).
 
 ## Commands
 
